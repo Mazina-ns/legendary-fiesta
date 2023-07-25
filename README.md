@@ -106,6 +106,6 @@
 Зайдите по ссылке и определите необходимый список режиссеров. Затем выведите не слишком старые фильмы этих режиссеров</li>
   <li>Задание №2. ППроверить, есть ли у Netflix фильмы, за игру в которых актеры получили «Оскар» в 2020 году</li>
       
-> <a href="https://github.com/Mazina-ns/legendary-fiesta/blob/main/%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8.xlsx">Ссылка на проект</a>
+> <a href="https://github.com/Mazina-ns/legendary-fiesta/blob/main/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20SQL.docx">Ссылка на проект</a>
 </ol>
 <br> .
